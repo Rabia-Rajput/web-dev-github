@@ -1,3 +1,5 @@
 This is the commit from feature branch.
 
 This is the commit for feature2 branch.
+
+To create conflicts.
